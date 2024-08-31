@@ -4,7 +4,7 @@ Welcome to my Python Programming Portfolio! This repository contains a collectio
 
 ## Repository Structure
 
-The repository is organized into the following directories, sorted in ascending order by assignment number:
+The repository is organized into the following directories:
 
 1. **Str ASMT 6:** Basic string operations.
 2. **Variable ASMT 4:** Understanding variables in Python.
@@ -18,13 +18,13 @@ The repository is organized into the following directories, sorted in ascending 
 10. **While ASMT 15:** Understanding the `while` loop in Python.
 11. **While ASMT 16:** More on `while` loops.
 12. **While ASMT 17:** Working with `while` loops.
-13. **While ASMT 18:** Advanced `while` loop operations.
+13. **While ASMT 18:** While` loop operations.
 14. **For ASMT 19:** Introduction to `for` loops.
 15. **For ASMT 20:** More on `for` loops.
-16. **For ASMT 21:** Advanced `for` loop usage.
+16. **For ASMT 21:** for` loop usage.
 17. **Loop ASMT 22:** Understanding loops in Python.
 18. **Loop ASMT 23:** More on loops.
-19. **Loop ASMT 24:** Advanced loop operations.
+19. **Loop ASMT 24:** Loop operations.
 20. **Loop ASMT 25:** More advanced loop operations.
 21. **List ASMT 24:** Working with lists in Python.
 22. **List ASMT 25:** Advanced list operations.
@@ -66,15 +66,9 @@ To explore the programs:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/python-programming-portfolio.git
-1. **Navigate to the Desired Directory**
-   Each directory contains .c files with well-commented code. You can compile and run the programs using a C compiler like GCC.
-   ```bash
-   cd Function\ ASMT\ 32
-   python3 programfile.py
-
 
 ## Purpose of This Repository
-This repository serves as a personal archive of my journey in learning C programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
+This repository serves as a personal archive of my journey in learning Python programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
 
  ## Connect with Me
  If you have any questions, suggestions, or just want to connect, feel free to reach out:
