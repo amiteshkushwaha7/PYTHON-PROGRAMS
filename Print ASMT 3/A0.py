@@ -1,5 +1,0 @@
-print("MySirG")
-print("MySirG\nEducation")
-print('"MySirG"')
-print('''"Teacher's day"''')
-print("\\n")
